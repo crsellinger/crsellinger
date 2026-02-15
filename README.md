@@ -1,5 +1,5 @@
 # Caleb Sellinger
-<p>Configuration Analyst at Oracle
+<p>Database Coordinator at the University of Central Missouri
   
 Pursuing MS in Data Analytics</p>
 
